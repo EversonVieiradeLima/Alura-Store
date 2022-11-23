@@ -1,4 +1,4 @@
-<h1 align="left">Projeto Alura Store</h1>
+<h1 align="left">Projeto - Alura Store</h1>
 
 ###
 
